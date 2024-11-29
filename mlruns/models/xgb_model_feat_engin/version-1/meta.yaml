@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732736880831
+current_stage: None
+description: null
+last_updated_timestamp: 1732736880831
+name: xgb_model_feat_engin
+run_id: 3f7e4cece6dc40ed9e5dc74d76934af5
+run_link: null
+source: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/3f7e4cece6dc40ed9e5dc74d76934af5/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/3f7e4cece6dc40ed9e5dc74d76934af5/artifacts/model
+user_id: null
+version: 1

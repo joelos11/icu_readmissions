@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732736856197
+current_stage: None
+description: null
+last_updated_timestamp: 1732736856197
+name: stack_model
+run_id: 21e916a3546c426c8c00b8c3a8a7ec8b
+run_link: null
+source: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/21e916a3546c426c8c00b8c3a8a7ec8b/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/21e916a3546c426c8c00b8c3a8a7ec8b/artifacts/model
+user_id: null
+version: 1

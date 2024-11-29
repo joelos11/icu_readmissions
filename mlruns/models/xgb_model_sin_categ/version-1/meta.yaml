@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732736859815
+current_stage: None
+description: null
+last_updated_timestamp: 1732736859815
+name: xgb_model_sin_categ
+run_id: 320e833a23f94f3692c0c7cbd5c6a622
+run_link: null
+source: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/320e833a23f94f3692c0c7cbd5c6a622/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/320e833a23f94f3692c0c7cbd5c6a622/artifacts/model
+user_id: null
+version: 1

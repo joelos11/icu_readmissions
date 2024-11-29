@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1732736869075
+current_stage: None
+description: null
+last_updated_timestamp: 1732736869075
+name: lgbm_model_sin_var_lab
+run_id: c86b27508e2d49aba86c77291969bd4a
+run_link: null
+source: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/c86b27508e2d49aba86c77291969bd4a/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/c86b27508e2d49aba86c77291969bd4a/artifacts/model
+user_id: null
+version: 1

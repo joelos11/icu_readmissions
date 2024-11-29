@@ -1,0 +1,2 @@
+LGBMClassifier(max_depth=10, n_estimators=300, random_state=123, subsample=0.6,
+               subsample_for_bin=20000)

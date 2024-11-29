@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/lerma/OneDrive/Escritorio/USB/TG-Hospital/TG_Final/mlruns/289480742129163536/c86b27508e2d49aba86c77291969bd4a/artifacts
+end_time: 1732736869101
+entry_point_name: ''
+experiment_id: '289480742129163536'
+lifecycle_stage: active
+run_id: c86b27508e2d49aba86c77291969bd4a
+run_name: lgbm_model_sin_var_lab
+run_uuid: c86b27508e2d49aba86c77291969bd4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732736865950
+status: 3
+tags: []
+user_id: lerma
